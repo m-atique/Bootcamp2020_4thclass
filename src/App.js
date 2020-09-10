@@ -19,6 +19,8 @@ function App() {
         <button onClick = {()=>isnight(!isday)}>Day/Night</button>
         <br />
         <Developer programmer ="Muhammad Atique"></Developer>
+
+        <p>every thing is ok</p>
       </center>
       
     </div>
