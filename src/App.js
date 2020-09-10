@@ -20,7 +20,7 @@ function App() {
         <br />
         <Developer programmer ="Muhammad Atique"></Developer>
 
-        <p>every thing is ok</p>
+       
       </center>
       
     </div>
